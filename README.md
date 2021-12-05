@@ -1,11 +1,14 @@
 # HoriseonRefactorAsignment
 
-This project is a refactor for the Horiseon marketing team. 
+## Puropose
+A websiite that offers search engine optimization, online reputation management, and social media marketing services.
 
-The client came to us with the intentions of improving web accessibility and SEO. The final draft of the project includes added HTML elements, consolidated CSS selectors, and properties that ensure SEO and accessibility are seamless. 
+## Built With
+*HTML
+*CSS
 
-BY: Shaniece Staples
+## Website
 
 
-#Version History
-1.0
+## Contribution 
+Made with ❤️ by Shaniece S.
